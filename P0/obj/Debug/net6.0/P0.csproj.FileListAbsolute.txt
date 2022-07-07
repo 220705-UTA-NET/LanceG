@@ -1,0 +1,15 @@
+C:\Revature\LanceG\P0\obj\Debug\net6.0\P0.csproj.AssemblyReference.cache
+C:\Revature\LanceG\P0\obj\Debug\net6.0\P0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\LanceG\P0\obj\Debug\net6.0\P0.AssemblyInfoInputs.cache
+C:\Revature\LanceG\P0\obj\Debug\net6.0\P0.AssemblyInfo.cs
+C:\Revature\LanceG\P0\obj\Debug\net6.0\P0.csproj.CoreCompileInputs.cache
+C:\Revature\LanceG\P0\bin\Debug\net6.0\P0.exe
+C:\Revature\LanceG\P0\bin\Debug\net6.0\P0.deps.json
+C:\Revature\LanceG\P0\bin\Debug\net6.0\P0.runtimeconfig.json
+C:\Revature\LanceG\P0\bin\Debug\net6.0\P0.dll
+C:\Revature\LanceG\P0\bin\Debug\net6.0\P0.pdb
+C:\Revature\LanceG\P0\obj\Debug\net6.0\P0.dll
+C:\Revature\LanceG\P0\obj\Debug\net6.0\refint\P0.dll
+C:\Revature\LanceG\P0\obj\Debug\net6.0\P0.pdb
+C:\Revature\LanceG\P0\obj\Debug\net6.0\P0.genruntimeconfig.cache
+C:\Revature\LanceG\P0\obj\Debug\net6.0\ref\P0.dll
