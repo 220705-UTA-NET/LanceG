@@ -11,7 +11,7 @@ namespace RPGgame
             Console.ReadLine();
         }
 
-        //Target key input prompt
+        //Target key input overloaded prompt
         public void dialoguePrompt (string prompt, string target, string success, string fail)
         {
             Console.WriteLine(prompt);

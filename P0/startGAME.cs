@@ -16,7 +16,8 @@ namespace RPGgame
                             "-----------------------------------------\n" +
                             "Press ENTER to play\n" + 
                             "Press H for instructions \n" +
-                            "Press X to exit\n"  );
+                            "Press X to exit\n" +
+                            "Select: "  );
 
             string inp = Console.ReadLine();
             Console.Clear();
@@ -34,7 +35,7 @@ namespace RPGgame
                     menu.dialoguePrompt("And Royal Lamps in their... well... Lampposts...");
                     menu.dialoguePrompt("Screw it! Let's battle...\n(You should give your best battlecry)");
                     Console.Clear();
-                    search();
+                    game.run();
                     break;
                 case "h":
                     menu.dialoguePrompt("You don't need instructions!\nBut seriously if you don't know what to do, push random buttons. I heard that works.");
@@ -60,9 +61,9 @@ namespace RPGgame
                     - Keep track of enemies killed, use counter for boss spawn */
         static void search()
         {
-            gameConsole game = new gameConsole();
+            gameConsole c = new gameConsole();
             //testing dialogue prompt overload, rewrite to rng enemies
-            game.dialoguePrompt("A Pirate stumbles in, drunk on drunken wine and gold brimming his pockets.\nGive me an 'Ahoy'!", "ahoy", "Arggh, that's me matey.", "Eh, close enough.");
+            c.dialoguePrompt("A Pirate stumbles in, drunk on drunken wine and gold brimming his pockets.\nGive me an 'Ahoy'!", "ahoy", "Arggh, that's me matey.", "Eh, close enough.");
             runMenu();
             
         }
