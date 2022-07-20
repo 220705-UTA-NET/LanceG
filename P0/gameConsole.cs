@@ -15,7 +15,7 @@ namespace RPGgame
         public void dialoguePrompt (string prompt, string target, string success, string fail)
         {
             Console.WriteLine(prompt);
-            string input = Console.ReadLine();
+            string? input = Console.ReadLine();
             Console.Clear();
 
             if(input.ToLower().Equals(target))

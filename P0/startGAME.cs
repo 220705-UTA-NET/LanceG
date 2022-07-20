@@ -9,7 +9,7 @@ namespace RPGgame
             runMenu();
         }
 
-        static void runMenu()
+        public static void runMenu()
         {
             Console.Write(  "-----------------------------------------\n" +
                             "G.rand A.dventure with M.agical E.nemies!\n" +
@@ -19,7 +19,7 @@ namespace RPGgame
                             "Press X to exit\n" +
                             "Select: "  );
 
-            string inp = Console.ReadLine();
+            string? inp = Console.ReadLine();
             Console.Clear();
 
             gameConsole menu = new gameConsole();
@@ -29,10 +29,12 @@ namespace RPGgame
                     //begins prologue of game
                     menu.dialoguePrompt("You, a Sir Royal Knight, live in your Royal Castle...");
                     menu.dialoguePrompt("Graciously given by the great and Royal King...");
-                    menu.dialoguePrompt("You have servants and maids to attend to your every need...");
-                    menu.dialoguePrompt("And Royal Flowers in your garden.....");
-                    menu.dialoguePrompt("And Royal Furniture in your bedroom.......");
-                    menu.dialoguePrompt("And Royal Lamps in their... well... Lampposts...");
+                    menu.dialoguePrompt("You have Royal Servants and Royal Maids to attend to your every need...");
+                    menu.dialoguePrompt("And Royal Flowers in your Royal Garden.....");
+                    menu.dialoguePrompt("And Royal Furniture in your Royal Bedroom.......");
+                    menu.dialoguePrompt("And Royal Lamps in their Royal... well... Lampposts...");
+                    menu.dialoguePrompt("...");
+                    menu.dialoguePrompt("......");
                     menu.dialoguePrompt("Screw it! Let's battle...\n(You should give your best battlecry)");
                     Console.Clear();
                     game.run();
