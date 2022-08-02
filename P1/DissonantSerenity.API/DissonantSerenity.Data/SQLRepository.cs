@@ -21,7 +21,6 @@ namespace DissonantSerenity.Data
         public async Task<IEnumerable<Pawn>> LoadPawnsAsync(string? key)
         {
 
-            //no call to update that suggests loading a save state. Needs revision
             List<Pawn> result = new();
             if (key == null)
                 key = "";
@@ -45,9 +44,6 @@ namespace DissonantSerenity.Data
                     string location = reader.GetString(6);
 
                     Pawn newPawn = new Pawn(first, last, x, y, insanity, susceptibility, location);
-                    //Console.WriteLine(newPawn.FirstName + " is in the " + newPawn.getLocation());
-                    //Pawn insanity increases from user interference
-                    //_logger.LogWarning(newPawn.FirstName + " feels a strange presence looming over them");
                     result.Add(newPawn);
                 }
 
