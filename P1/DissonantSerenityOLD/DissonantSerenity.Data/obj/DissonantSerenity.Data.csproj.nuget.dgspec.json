@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Revature\\LanceG\\P1\\DissonantSerenityOLD\\DissonantSerenity.Data\\DissonantSerenity.Data.csproj": {}
+  },
+  "projects": {
+    "C:\\Revature\\LanceG\\P1\\DissonantSerenityOLD\\DissonantSerenity.Data\\DissonantSerenity.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Revature\\LanceG\\P1\\DissonantSerenityOLD\\DissonantSerenity.Data\\DissonantSerenity.Data.csproj",
+        "projectName": "DissonantSerenity.Data",
+        "projectPath": "C:\\Revature\\LanceG\\P1\\DissonantSerenityOLD\\DissonantSerenity.Data\\DissonantSerenity.Data.csproj",
+        "packagesPath": "C:\\Users\\Lance Gong\\.nuget\\packages\\",
+        "outputPath": "C:\\Revature\\LanceG\\P1\\DissonantSerenityOLD\\DissonantSerenity.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lance Gong\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Revature\\LanceG\\P1\\DissonantSerenityOLD\\DissonantSerenityAPI.Model\\DissonantSerenity.Model.csproj": {
+                "projectPath": "C:\\Revature\\LanceG\\P1\\DissonantSerenityOLD\\DissonantSerenityAPI.Model\\DissonantSerenity.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+C:\Revature\LanceG\P1\DissonantSerenity\DissonantSerenity.Data\obj\Debug\net6.0\DissonantSerenity.Data.csproj.AssemblyReference.cache
+C:\Revature\LanceG\P1\DissonantSerenity\DissonantSerenity.Data\obj\Debug\net6.0\DissonantSerenity.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\LanceG\P1\DissonantSerenity\DissonantSerenity.Data\obj\Debug\net6.0\DissonantSerenity.Data.AssemblyInfoInputs.cache
+C:\Revature\LanceG\P1\DissonantSerenity\DissonantSerenity.Data\obj\Debug\net6.0\DissonantSerenity.Data.AssemblyInfo.cs
+C:\Revature\LanceG\P1\DissonantSerenity\DissonantSerenity.Data\obj\Debug\net6.0\DissonantSerenity.Data.csproj.CoreCompileInputs.cache
