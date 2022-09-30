@@ -1,0 +1,15 @@
+C:\Revature\LanceG\Weeklies\Sept30\obj\Debug\net6.0\Sept30.csproj.AssemblyReference.cache
+C:\Revature\LanceG\Weeklies\Sept30\obj\Debug\net6.0\Sept30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Revature\LanceG\Weeklies\Sept30\obj\Debug\net6.0\Sept30.AssemblyInfoInputs.cache
+C:\Revature\LanceG\Weeklies\Sept30\obj\Debug\net6.0\Sept30.AssemblyInfo.cs
+C:\Revature\LanceG\Weeklies\Sept30\obj\Debug\net6.0\Sept30.csproj.CoreCompileInputs.cache
+C:\Revature\LanceG\Weeklies\Sept30\bin\Debug\net6.0\Sept30.exe
+C:\Revature\LanceG\Weeklies\Sept30\bin\Debug\net6.0\Sept30.deps.json
+C:\Revature\LanceG\Weeklies\Sept30\bin\Debug\net6.0\Sept30.runtimeconfig.json
+C:\Revature\LanceG\Weeklies\Sept30\bin\Debug\net6.0\Sept30.dll
+C:\Revature\LanceG\Weeklies\Sept30\bin\Debug\net6.0\Sept30.pdb
+C:\Revature\LanceG\Weeklies\Sept30\obj\Debug\net6.0\Sept30.dll
+C:\Revature\LanceG\Weeklies\Sept30\obj\Debug\net6.0\refint\Sept30.dll
+C:\Revature\LanceG\Weeklies\Sept30\obj\Debug\net6.0\Sept30.pdb
+C:\Revature\LanceG\Weeklies\Sept30\obj\Debug\net6.0\Sept30.genruntimeconfig.cache
+C:\Revature\LanceG\Weeklies\Sept30\obj\Debug\net6.0\ref\Sept30.dll
